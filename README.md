@@ -43,3 +43,4 @@ Una actualización toca `index.html` (que trae los datos del consolidado) y el a
   carpeta del estudio.
 
 _Última actualización: 09-11-2026 · libro v81 · se publica sola el día 1 de cada mes._
+
