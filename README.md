@@ -42,4 +42,4 @@ Una actualización toca `index.html` (que trae los datos del consolidado) y el a
 - Las imágenes son una representación de lectura; el documento original firmado vive en la
   carpeta del estudio.
 
-_Última actualización: 26-10-2026 · libro v54 · se publica sola el día 1 de cada mes._
+_Última actualización: 09-11-2026 · libro v80 · se publica sola el día 1 de cada mes._
